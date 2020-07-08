@@ -53,7 +53,7 @@ a:hover {
 section.header-section {
     background: #F0FFF0;
 }
-.banner-section{
+.banner-part{
     background: #F0FFF0;
 }
 footer{
@@ -109,24 +109,24 @@ a.navbar-brand {
 }
 
 
-.summary-part img.card-img-top {
+.card-part img.card-img-top {
     max-width: 80px;
     margin: 0 auto;
     max-height: 122px;
 }
-.summary-part .card-body {
+.card-part .card-body {
     text-align: center;
     padding: 30px;
 }
-.summary-part .card img {
+.card-part .card img {
     padding-top: 40px;
 }
-.summary-part .card{
+.card-part .card{
     border:none;
     transition: .2s ease;
     background: #F8FFFB;
 }
-.summary-part .card:hover{
+.card-part .card:hover{
     background: #FFFFFF;
     box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
     border-radius: 10px;
